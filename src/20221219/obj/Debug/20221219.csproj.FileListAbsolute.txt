@@ -1,0 +1,8 @@
+D:\.workshop\DOSTI\ic-dosti\CourseCShJunior\src\20221219\bin\Debug\20221219.exe.config
+D:\.workshop\DOSTI\ic-dosti\CourseCShJunior\src\20221219\bin\Debug\20221219.exe
+D:\.workshop\DOSTI\ic-dosti\CourseCShJunior\src\20221219\bin\Debug\20221219.pdb
+D:\.workshop\DOSTI\ic-dosti\CourseCShJunior\src\20221219\obj\Debug\20221219.csproj.AssemblyReference.cache
+D:\.workshop\DOSTI\ic-dosti\CourseCShJunior\src\20221219\obj\Debug\20221219.csproj.SuggestedBindingRedirects.cache
+D:\.workshop\DOSTI\ic-dosti\CourseCShJunior\src\20221219\obj\Debug\20221219.csproj.CoreCompileInputs.cache
+D:\.workshop\DOSTI\ic-dosti\CourseCShJunior\src\20221219\obj\Debug\20221219.exe
+D:\.workshop\DOSTI\ic-dosti\CourseCShJunior\src\20221219\obj\Debug\20221219.pdb
