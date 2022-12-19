@@ -32,7 +32,7 @@ namespace _20221219
             Console.WriteLine(true);
             Console.WriteLine(false);
 
-            // Целочисленные типы
+            // Целочисленные типы int
             Console.WriteLine(-800);
             Console.WriteLine(668);
             Console.WriteLine(55);
